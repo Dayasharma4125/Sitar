@@ -1,0 +1,8 @@
+{
+  "name": "Sitar",
+  "description": "A modern, glassmorphic Jetpack Compose music player featuring dynamic album-art themes, cassette deck aesthetic, and interactive synchronized lyrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
