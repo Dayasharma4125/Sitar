@@ -91,10 +91,4 @@ Everything stays on your device. Sitar has no ads, no trackers, no login and no 
 
 Ideas, bug reports and pull requests are welcome. Open an issue to start a discussion.
 
-## 📄 License
-
-Add your license here (MIT is a good default for personal projects).
-
----
-
 Made with ❤️ by **Dayanand**
