@@ -56,7 +56,14 @@ I built this with a mix of Google AI Studio and my own hands-on coding, because 
 
 ## 📱 Screenshots
 
-_Add your screenshots here (Home, Now Playing, Lyrics, Artists, Search, Analytics, Settings)._
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/8c381cf1-6929-4d85-8fab-a68fb155cda8" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/42b96bd0-4175-4def-829c-bf99f0d2b68c" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/1e900753-1d70-4d51-8f47-2df7a70ff145" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/a79f9e9e-76e9-4762-954e-16275eacaa41" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0c296685-48fb-4a79-8d0a-68309874d647" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/9fd92c2c-75ff-4395-a4f0-c43446989202" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/239ed70b-ad0f-4396-945a-7780f8d240e5" />
+
 
 ---
 
@@ -64,7 +71,7 @@ _Add your screenshots here (Home, Now Playing, Lyrics, Artists, Search, Analytic
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/Dayasharma4125/Sitar.git
    ```
 2. Open the project in **Android Studio**
 3. Let Gradle sync, then run it on a device or emulator
